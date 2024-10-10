@@ -1,5 +1,4 @@
-# conversor
-Conversor de Monedas
+# Conversor de Monedas
 
 Este proyecto forma parte de mi formación en Alura y Oracle ONE, donde estoy aprendiendo sobre el desarrollo backend con Java. Como parte de este desafío, he desarrollado una aplicación de consola que permite convertir montos entre diferentes monedas utilizando una API externa para obtener las tasas de cambio actualizadas.
 
